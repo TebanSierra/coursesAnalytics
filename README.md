@@ -14,3 +14,8 @@ This project has the intention to get information about EDX Courses to create an
 * Crawling data from EDX API
 * Basic structure with information about courses
 * Pending to resolve requests/sec on EDX API
+
+**November 10, 2017**
+
+* Fixed URL for request
+* Pending Bad entries
